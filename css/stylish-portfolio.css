@@ -15,14 +15,14 @@ body {
 }
 
 body {
-    font-family: 'Source Code Pro', "Source Code Pro", serif, ;
+    font-family: 'Source Code Pro', "Source Code Pro", sans-serif;
 
 }
 
 .text-vertical-center {
     display: table-cell;
     text-align: center;
-    font-family: 'Source Code Pro', "Source Code Pro", serif, ;
+    font-family: 'Source Code Pro', "Source Code Pro", sans-serif;
     color: #fff;
     vertical-align: middle;
 }
@@ -198,7 +198,7 @@ hr.small {
 }
 
 .service-item {
-    font-family: 'Source Code Pro', "Source Code Pro", serif, ;
+    font-family: 'Source Code Pro', "Source Code Pro", sans-serif;
 
     margin-bottom: 30px;
 }
@@ -226,7 +226,7 @@ hr.small {
 }
 
 .portfolio-item {
-     font-family: 'Source Code Pro', "Source Code Pro", serif, ;
+     font-family: 'Source Code Pro', "Source Code Pro", sans-serif;
     margin-bottom: 30px;
 }
 
