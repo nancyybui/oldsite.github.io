@@ -15,14 +15,14 @@ body {
 }
 
 body {
-    font-family: 'Source Code Pro', "Source Code Pro", Helvetica, serif, ;
+    font-family: 'Source Code Pro', "Source Code Pro", serif, ;
 
 }
 
 .text-vertical-center {
     display: table-cell;
     text-align: center;
-    font-family: 'Source Code Pro', "Source Code Pro", Helvetica, serif, ;
+    font-family: 'Source Code Pro', "Source Code Pro", serif, ;
     color: #fff;
     vertical-align: middle;
 }
@@ -71,6 +71,7 @@ body {
 
 hr.small {
     max-width: 100px;
+
 }
 
 /* Side Menu */
@@ -178,7 +179,12 @@ hr.small {
 /* About */
 
 .about {
+    font-family: 'Megrim', cursive;
     padding: 50px 0;
+
+}
+.about p{
+    font-family: 'Source Code Pro', "Source Code Pro", sans-serif;
 }
 
 /* Services */
@@ -192,7 +198,8 @@ hr.small {
 }
 
 .service-item {
-    font-family: 'Source Code Pro', "Source Code Pro", Helvetica, serif, ;
+    font-family: 'Source Code Pro', "Source Code Pro", serif, ;
+
     margin-bottom: 30px;
 }
 
@@ -214,11 +221,12 @@ hr.small {
 
 .portfolio {
     font-family: 'Megrim', cursive;
+    
     padding: 50px 0;
 }
 
 .portfolio-item {
-     font-family: 'Source Code Pro', "Source Code Pro", Helvetica, serif, ;
+     font-family: 'Source Code Pro', "Source Code Pro", serif, ;
     margin-bottom: 30px;
 }
 
@@ -253,8 +261,10 @@ hr.small {
     }
 }
 
+
+
 /* Footer */
 
 footer {
-    padding: 100px 0;
+    padding: 30px 0;
 }
